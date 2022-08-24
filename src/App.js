@@ -3,6 +3,7 @@ import './boxicons/css/boxicons.min.css';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import AppLayout from "./Components/layout/AppLayout";
 import Blank from "./pages/Blank";
+import Cv from "./pages/Cv";
 
 function App() {
   return(
@@ -11,8 +12,7 @@ function App() {
           <Route path='/' element={<AppLayout />}>
             <Route index element={<Blank />} />
             <Route path='/started' element={<Blank />}/>
-            <Route path='/calendar' element={<Blank />}/>
-            <Route path='/user' element={<Blank />}/>
+            <Route path='/cv' element={<Cv />}/>
           </Route>
         </Routes>
       </BrowserRouter>
