@@ -4,7 +4,7 @@ import './sidebar.scss';
 
 const sidebarNavItems = [
     {
-        display: 'Dashboard',
+        display: 'Home',
         icon: <i className='bx bx-home'></i>,
         to: '/',
         section: ''
@@ -16,16 +16,10 @@ const sidebarNavItems = [
         section: 'started'
     },
     {
-        display: 'Calendar',
-        icon: <i className='bx bx-calendar'></i>,
-        to: '/calendar',
-        section: 'calendar'
-    },
-    {
-        display: 'User',
+        display: 'My CV',
         icon: <i className='bx bx-user'></i>,
-        to: '/user',
-        section: 'user'
+        to: '/cv',
+        section: 'cv'
     }
 ]
 
