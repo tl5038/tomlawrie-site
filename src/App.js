@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path='/' element={<AppLayout />}>
             <Route index element={<Blank />} />
-            <Route path='/started' element={<Blank />}/>
+            <Route path='/projects' element={<Blank />}/>
             <Route path='/cv' element={<Cv />}/>
           </Route>
         </Routes>

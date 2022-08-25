@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e337bc4c-c0a0-4908-b16f-c2878108ab0c" name="Changes" comment="Added clear board button to game of life">
-      <change afterPath="$PROJECT_DIR$/public/MyCV.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/MyCV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Cv.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/cv.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Projects.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/projects.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.jsx" afterDir="false" />
     </list>
@@ -71,7 +67,9 @@
       <workItem from="1661335899200" duration="84000" />
       <workItem from="1661336032796" duration="3406000" />
       <workItem from="1661339598976" duration="58000" />
-      <workItem from="1661340480223" duration="4734000" />
+      <workItem from="1661340480223" duration="4801000" />
+      <workItem from="1661345604356" duration="366000" />
+      <workItem from="1661463196691" duration="926000" />
     </task>
     <task id="LOCAL-00001" summary="Added clear board button to game of life">
       <created>1659745947079</created>
