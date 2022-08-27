@@ -48,6 +48,7 @@ const Sidebar = () => {
     return <div className='sidebar'>
         <div className="sidebar__logo">
             Tom's Site
+            <div className="sidebar__underDev">Currently under development</div>
         </div>
         <div ref={sidebarRef} className="sidebar__menu">
             <div
