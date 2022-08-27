@@ -10,10 +10,10 @@ const sidebarNavItems = [
         section: ''
     },
     {
-        display: 'Getting Started',
+        display: 'Projects',
         icon: <i className='bx bx-star'></i>,
-        to: '/started',
-        section: 'started'
+        to: '/projects',
+        section: 'projects'
     },
     {
         display: 'My CV',
@@ -48,6 +48,7 @@ const Sidebar = () => {
     return <div className='sidebar'>
         <div className="sidebar__logo">
             Tom's Site
+            <div className="sidebar__underDev">Currently under development</div>
         </div>
         <div ref={sidebarRef} className="sidebar__menu">
             <div

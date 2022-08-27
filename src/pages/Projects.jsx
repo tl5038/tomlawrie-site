@@ -1,14 +1,10 @@
-import React from "react";
-import MyCV from '../img/MyCV.jpg';
-import './cv.scss';
+import "./projects.scss";
 
-const Cv = () => {
+const Projects = () => {
     return (
         <div className="background">
-            <div className='image'>
-                <div className="cv">
-                    <a download="TomLawrieCV.pdf" href="MyCV.pdf"><img src={ MyCV }  alt={""} /></a>
-                </div>
+            <div>
+
             </div>
             <div className="area">
                 <ul className="circles">
@@ -28,4 +24,4 @@ const Cv = () => {
     );
 }
 
-export default Cv;
+export default Projects;
