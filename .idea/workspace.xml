@@ -2,9 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e337bc4c-c0a0-4908-b16f-c2878108ab0c" name="Changes" comment="Added clear board button to game of life">
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/pre.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/aboutCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/techstack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About/toolstack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/home2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects/projectCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/particle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/scrollToTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Sidebar/sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/layout/AppLayout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Blank.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cv.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Projects.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cv.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/projects.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -25,6 +60,11 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/App.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/index.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,6 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/GGPC/Desktop/Projects/tomlawrie-site",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -49,6 +90,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site\src\img" />
       <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site\src" />
       <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site" />
     </key>
@@ -69,7 +111,9 @@
       <workItem from="1661340480223" duration="4801000" />
       <workItem from="1661345604356" duration="366000" />
       <workItem from="1661463196691" duration="1351000" />
-      <workItem from="1661635599520" duration="6124000" />
+      <workItem from="1661635599520" duration="6197000" />
+      <workItem from="1663040643324" duration="53000" />
+      <workItem from="1666916032934" duration="3188000" />
     </task>
     <task id="LOCAL-00001" summary="Added clear board button to game of life">
       <created>1659745947079</created>
