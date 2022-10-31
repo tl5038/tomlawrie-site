@@ -33,7 +33,7 @@ function Projects() {
                             isBlog={false}
                             title="Website for Women in CS at UOA"
                             description="My Capstone project at UOA, this website was built to encourage female enrolment in the school of Computer Science. It was built in Python using the Django framework, and features a news, events, contact, image gallery, and resources page. The website was deployed on AWS during the semester. More information about the project can be found in the project's README file."
-                            ghLink="https://github.com/Dhruvsr/Sched"
+                            ghLink="https://github.com/tl5038/UOA-Women-in-CS"
                         />
                     </Col>
 

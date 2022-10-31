@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e337bc4c-c0a0-4908-b16f-c2878108ab0c" name="Changes" comment="Added clear board button to game of life">
-      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/COMP399.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/concerts-page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/home2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/type.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Projects/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +81,7 @@
       <workItem from="1666916032934" duration="3423000" />
       <workItem from="1667123308181" duration="592000" />
       <workItem from="1667223030503" duration="25000" />
-      <workItem from="1667223065313" duration="1723000" />
+      <workItem from="1667223065313" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="Added clear board button to game of life">
       <created>1659745947079</created>
