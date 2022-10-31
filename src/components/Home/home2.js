@@ -19,22 +19,14 @@ function Home2() {
                         <p className="home-about-body">
                             I am a recent Computer Science graduate from the University of Auckland.
                             <br />
-                            <br />I occasionally immerse myself with
-                            <i>
-                                <b className="purple"> HTML, CSS and JavaScript. </b>
-                            </i>
+                            <br />I'm also a Sound Engineer (BCommMus) and Musician.
                             <br />
                             <br />
-                            I am the co-founder of a science magazine called
-                            <i>
-                                <a href="https://thegeekly.net"><b className="teal"> The Geekly</b></a>; a magazine exploring the universe through the lens of science.
-                                I have also participated in various <a href="https://www.linkedin.com/in/dhruv-ramu-1a325622a/details/honors/"><b className="teal">
-                                Hackathons</b></a> and have applied my skills in a competitive environment.
-                            </i>
+                            I Have experience in both backend and frontend web development, as well as game development in Unity.
                             <br />
                             <br />
-                            I also utilize <b className="teal"> LaTeX </b> and
-                            <b className="teal"> Markdown. </b>
+                            Check out the about page to see what tools and technologies I'm familiar with, and the projects page to see some of my work.
+                            <br />
                         </p>
                     </Col>
                     <Col md={4} className="myAvtar">

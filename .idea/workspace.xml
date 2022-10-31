@@ -2,43 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e337bc4c-c0a0-4908-b16f-c2878108ab0c" name="Changes" comment="Added clear board button to game of life">
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/pre.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/aboutCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/github.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/techstack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/toolstack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/home2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/projectCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/particle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pre.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/scrollToTop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/COMP399.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Projects/concerts-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/Sidebar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar/sidebar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/layout/AppLayout.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Blank.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Cv.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Projects.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cv.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/projects.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/home2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,22 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/GGPC/Desktop/Projects/tomlawrie-site",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\GGPC\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\222.3345.108\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GGPC/Desktop/Projects/tomlawrie-site&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\GGPC\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\222.3345.108\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site\src\Assets\Projects" />
       <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site\src\img" />
       <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site\src" />
       <recent name="C:\Users\GGPC\Desktop\Projects\tomlawrie-site" />
@@ -113,7 +85,10 @@
       <workItem from="1661463196691" duration="1351000" />
       <workItem from="1661635599520" duration="6197000" />
       <workItem from="1663040643324" duration="53000" />
-      <workItem from="1666916032934" duration="3188000" />
+      <workItem from="1666916032934" duration="3423000" />
+      <workItem from="1667123308181" duration="592000" />
+      <workItem from="1667223030503" duration="25000" />
+      <workItem from="1667223065313" duration="1723000" />
     </task>
     <task id="LOCAL-00001" summary="Added clear board button to game of life">
       <created>1659745947079</created>

@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./projectCard";
 import Particle from "../particle";
-import Salus from "../../Assets/Projects/Salus.png";
-import TheGeekly from "../../Assets/Projects/TheGeekly.png";
-import CarboTrack from "../../Assets/Projects/CarboTrack.png";
-import Sched from "../../Assets/Projects/Sched.png";
-import Aprendiz from "../../Assets/Projects/Aprendiz.png";
+import Concerts from "../../Assets/Projects/concerts-page.png";
+import COMP399 from "../../Assets/Projects/COMP399.png";
 
 function Projects() {
     return (
@@ -14,65 +11,29 @@ function Projects() {
             <Particle />
             <Container>
                 <h1 className="project-heading">
-                    My Recent <strong className="teal">Projects, Certifications & Awards</strong>
+                    My Recent <strong className="teal">Projects</strong>
                 </h1>
                 <p style={{ color: "white" }}>
-                    Here are a few things I've worked on recently.
+                    Here are a few things I've worked on recently, both in and out of university.
                 </p>
                 <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                     <Col md={4} className="project-card">
                         <ProjectCard
-                            imgPath={CarboTrack}
+                            imgPath={Concerts}
                             isBlog={false}
-                            title="CarboTrack"
-                            description="CarboTrack is a web application that allows the user to track their carbon footprint based on electricity usage, transportation, and food consumption. My team and I used tensorflow.js to allow for taking pictures of various items to determine their carbon footpring. The result can then be copied to the clipboard and shared through emojis. This was built in 24 hours' time and my team (NextGen) won second prize in SISHACK."
-                            ghLink="https://github.com/Dhruvsr/CarboTrack"
-                            demoLink="https://dhruv.is-from.space/CarboTrack_Demo.MP4"
+                            title="Concert Booking Service"
+                            description="The aim of this project was to build a web service for booking seats at a concert. The service was built in Java, and was designed with a mock 120 seat venue. The venue's seats were classified into three price bands, along with several other requirements. A complete description of the project can be found in the project's README file."
+                            ghLink="https://github.com/tl5038/project-concert-webapp"
                         />
                     </Col>
 
                     <Col md={4} className="project-card">
                         <ProjectCard
-                            imgPath={Sched}
+                            imgPath={COMP399}
                             isBlog={false}
-                            title="Sched"
-                            description="Sched is the all-in-one scheduling app. It is a nifty chrome extension and easily accessible website that improves students' productivity. It features a task organizer based on priority and turning on its focus mode will ensure there are no disturbances during the session as it blocks any distracting websites, while storing information on localstorage. My team (NextGen) won the second prize in NeevHacks."
+                            title="Website for Women in CS at UOA"
+                            description="My Capstone project at UOA, this website was built to encourage female enrolment in the school of Computer Science. It was built in Python using the Django framework, and features a news, events, contact, image gallery, and resources page. The website was deployed on AWS during the semester. More information about the project can be found in the project's README file."
                             ghLink="https://github.com/Dhruvsr/Sched"
-                            demoLink="https://dhruv.is-from.space/1659861963.png"
-                        />
-                    </Col>
-
-                    <Col md={4} className="project-card">
-                        <ProjectCard
-                            imgPath={Aprendiz}
-                            isBlog={false}
-                            title="Aprendiz"
-                            description="Aprendiz is a Chrome Extension that changes certain words on websites (such as wikipedia.com) to help students learn multiple languages such as Spanish, French,Kannada, German and Dutch. Expand your vocabulary in a particular language while browsing the web, and subconciously picking up a language. The extension is made up of JavaScript and HTML, and its relatively easy-to-use interface makes it effortless to add more language support.
-              "
-                            ghLink="https://github.com/Dhruvsr/Aprendiz"
-                            demoLink="https://dhruv.is-from.space/2021-10-10-20-08-04.mov"
-                        />
-                    </Col>
-
-                    <Col md={4} className="project-card">
-                        <ProjectCard
-                            imgPath={Salus}
-                            isComp={true}
-                            title="Project Salus"
-                            description="I participated in a climate change-themed science fest organized by Christ Junior College called Project Salus. It involved a series of climate change-themed science challenges which had to be solved using Python within ten minutes. It also involved the creation of a presentation. I won first place for the theme 'Technica Humanitus'. "
-                            ghLink="https://dhruv.is-from.space/1659865480.png"
-                            demoLink="https://dhruv.is-from.space/1659865480.png"
-                        />
-                    </Col>
-
-                    <Col md={4} className="project-card">
-                        <ProjectCard
-                            imgPath={TheGeekly}
-                            isBlog={false}
-                            title="The Geekly"
-                            description="I co-founded The Geekly, a magazine exploring the universe through the lens of science. 12 issues have been created till date, featuring original and interesting articles. "
-                            // ghLink="not needed here"
-                            demoLink="https://thegeekly.net"
                         />
                     </Col>
 
